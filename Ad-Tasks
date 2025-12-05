@@ -1,0 +1,4 @@
+1. Add Google Ads Package Dependencies
+2. Add GADApplicationIdentifier to plist with AdMob identifier
+3. Add ATTConesent to triva_appApp (or similar folder)
+4. 
